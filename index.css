@@ -1,0 +1,44 @@
+#text{
+    
+    font-size: 60px;
+    text-align: center;
+    width: 1500px;
+    text-decoration: solid black;
+}
+#text1{
+    border: 3px solid darkgrey;
+    width: 1500px;
+    margin-top: 40px;
+    background-color: lightblue;
+}
+
+#text2{
+    
+    font-size: 30px;
+    text-align: center;
+}
+#text3{
+    border: 2px solid orange;
+    font-size: 30px;
+    text-align: center;
+    margin-left:200px ;
+    margin-right: 200px;
+    background-color: white;
+}
+#text4{
+    border: 2px solid gray;
+    font-size: 30px;
+    text-align: center;
+    margin-left:200px ;
+    margin-right: 200px;
+    background-color: lightsteelblue;
+}
+#text5{
+    border: 2px solid gray;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    margin-left:200px ;
+    margin-right: 200px;
+    background-color: white;
+}
